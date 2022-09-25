@@ -1,0 +1,45 @@
+body{
+    padding-bottom: 40px;
+}
+.letak{
+    margin: 0 auto;
+    width: 960px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.judul{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+
+img{
+    width: 960px;
+    height: 200px;
+}
+
+.kotak1{
+    width: 600px;
+    padding-right: 40px;
+}
+
+.kotak2{
+    width: 300px;
+    padding-left: 5px;
+}
+
+table{
+    text-align: left;
+}
+
+p{
+    text-align: justify;
+}
+.penutup{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
